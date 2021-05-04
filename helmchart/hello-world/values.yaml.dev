@@ -1,4 +1,4 @@
-namespace: default
+namespace: jenkins
 app: hello-world
 servicePort: 9090
 replicas: 2 
